@@ -7,9 +7,9 @@
 </p>
 
 
-<a href="https://github.com/R4posaG/">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a> 
-<a href="https://github.com/R4posaG/">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/R4posaG/">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/R4posaG/Libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a> 
+<a href="https://github.com/R4posaG/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/R4posaG/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
 <!--
 **R4posaG/R4posaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
