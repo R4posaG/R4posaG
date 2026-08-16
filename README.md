@@ -18,6 +18,7 @@
 
 - Java, Python and C
 - Object Oriented Programming
+- Data Structures and Algorithms
 - Computer Architecture
 - Low Level Coding with RISC-V and VHDL
 - Graph Teory
