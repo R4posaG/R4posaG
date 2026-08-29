@@ -6,7 +6,7 @@
   </a>
 </p>
 
-
+<!--
 <a href="https://github.com/R4posaG/Libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
 <a href="https://github.com/R4posaG/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 <!--
