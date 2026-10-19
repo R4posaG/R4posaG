@@ -19,8 +19,8 @@
 - Java, Python and C
 - Object Oriented Programming
 - Data Structures and Algorithms
+- RISC-V and VHDL
 - Computer Architecture
-- Low Level Coding with RISC-V and VHDL
 - Graph Teory
 <!--
 **R4posaG/R4posaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
