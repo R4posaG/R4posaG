@@ -16,10 +16,7 @@
 
 ## Knowladge
 
-- Java, Python and C
-- Object Oriented Programming
-- Data Structures and Algorithms
-- RISC-V and VHDL
+- Java, Python, C, RISC-V and VHDL
 - Computer Architecture
 - Graph Teory
 <!--
