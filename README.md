@@ -20,7 +20,7 @@
 - Data Structures and Algorithms
 - Computer Architecture
 - Digital Systems, VHDL
-- Graph Teory
+
 <!--
 **R4posaG/R4posaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
