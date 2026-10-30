@@ -17,6 +17,7 @@
 ## Knowladge
 
 - Java, Python, C, RISC-V and VHDL
+- Data Structures and Algorithms
 - Computer Architecture
 - Graph Teory
 <!--
